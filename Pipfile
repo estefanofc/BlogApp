@@ -9,6 +9,7 @@ black = "*"
 [packages]
 django = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.7"
